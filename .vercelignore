@@ -1,0 +1,5 @@
+# Fichiers inutiles au déploiement Vercel : exclus de l'upload des sources.
+/tests
+/shots
+/docs
+*.zip
